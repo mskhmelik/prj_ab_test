@@ -1,4 +1,4 @@
-# Final Project - A/B Testing
+# A/B Testing
 
 ## Introduction
 
